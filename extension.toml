@@ -1,0 +1,7 @@
+id = "theme-mariana"
+name = "Mariana"
+version = "0.5.0"
+schema_version = 1
+authors = ["blaqat <blaqat.ag@gmail.com>"]
+description = "`variants: [Depths (might remove), Trench, Breakers, Sublime]` based on the default Mariana and Breakers theme in Sublime Text & [Mariana Pro Warm](https://arc.net/l/quote/erujorqf) Vscode Theme"
+repository = "https://github.com/blaqat/zed-themes/mariana"
