@@ -3,5 +3,5 @@ name = "Mariana"
 version = "0.5.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
-description = "`variants: [Depths (might remove), Trench, Breakers, Sublime]` based on the default Mariana and Breakers theme in Sublime Text & [Mariana Pro Warm](https://arc.net/l/quote/erujorqf) Vscode Theme"
+description = "Sublime Mariana Theme for Zed"
 repository = "https://github.com/biaqat/mariana-theme-zed"
