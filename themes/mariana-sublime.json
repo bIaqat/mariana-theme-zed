@@ -1,10 +1,10 @@
 {
 	"$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-	"name": "mariana",
+	"name": "test",
 	"author": "blaqat",
 	"themes": [
 		{
-			"name": "Mariana Sublime Auto",
+			"name": "Mariana Sublime",
 			"appearance": "dark",
 			"style": {
 				"border": "#4e565e",
@@ -72,9 +72,9 @@
 				"terminal.ansi.black": "#1E1E1E",
 				"terminal.ansi.bright_black": "#7A818D",
 				"terminal.ansi.dim_black": "#252526",
-				"terminal.ansi.red": "#ff3f61",
-				"terminal.ansi.bright_red": "#ff3f61",
-				"terminal.ansi.dim_red": "#ff3f61",
+				"terminal.ansi.red": "#FE5168",
+				"terminal.ansi.bright_red": "#FE5168",
+				"terminal.ansi.dim_red": "#FE5168",
 				"terminal.ansi.green": "#7aca8f",
 				"terminal.ansi.bright_green": "#7aca8f",
 				"terminal.ansi.dim_green": "#7aca8f",
@@ -94,18 +94,18 @@
 				"terminal.ansi.bright_white": "#d2d9e3",
 				"terminal.ansi.dim_white": "#d2d9e3",
 				"link_text.hover": "#f9ae58",
-				"conflict": "#ff3f61",
-				"conflict.background": "#ff3f61",
-				"conflict.border": "#ff3f61",
+				"conflict": "#FE5168",
+				"conflict.background": "#FE5168",
+				"conflict.border": "#FE5168",
 				"created": "#7aca8f",
 				"created.background": "#7aca8f",
 				"created.border": "#7aca8f",
-				"deleted": "#ff3f61",
-				"deleted.background": "#ff3f61",
-				"deleted.border": "#ff3f61",
-				"error": "#ff3f61",
-				"error.background": "#ff3f61",
-				"error.border": "#ff3f61",
+				"deleted": "#FE5168",
+				"deleted.background": "#FE5168",
+				"deleted.border": "#FE5168",
+				"error": "#FE5168",
+				"error.background": "#FE5168",
+				"error.border": "#FE5168",
 				"hidden": null,
 				"hidden.background": null,
 				"hidden.border": null,
@@ -150,7 +150,7 @@
 						"font_weight": 500
 					},
 					"boolean": {
-						"color": "#ff3f61",
+						"color": "#FE5168",
 						"font_style": "italic",
 						"font_weight": 500
 					},
@@ -170,7 +170,7 @@
 						"font_weight": 500
 					},
 					"constant.builtin": {
-						"color": "#ff3f61",
+						"color": "#FE5168",
 						"font_style": "italic",
 						"font_weight": 500
 					},
@@ -310,7 +310,7 @@
 						"font_weight": 500
 					},
 					"tag": {
-						"color": "#ff3f61",
+						"color": "#FE5168",
 						"font_style": "normal",
 						"font_weight": 500
 					},
@@ -330,7 +330,7 @@
 						"font_weight": 500
 					},
 					"type.builtin": {
-						"color": "#ff3f61",
+						"color": "#FE5168",
 						"font_style": "italic",
 						"font_weight": 500
 					},
