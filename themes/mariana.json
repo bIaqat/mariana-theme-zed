@@ -310,7 +310,7 @@
 				"elevated_surface.background": "#2b2624",
 				"surface.background": "#211D1C",
 				"background": "#3d3734",
-				"element.background": "#6699cc",
+				"element.background": "#6699cc40",
 				"element.hover": "#ffe4d407",
 				"element.active": null,
 				"element.selected": "#ffe4d414",

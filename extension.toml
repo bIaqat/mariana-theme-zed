@@ -1,6 +1,6 @@
 id = "mariana-theme"
 name = "Mariana Theme"
-version = "0.6.0"
+version = "0.7.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "Sublime Mariana Theme for Zed"
