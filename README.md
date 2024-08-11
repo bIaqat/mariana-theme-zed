@@ -1,5 +1,5 @@
 # Mariana
-`variants: [Depths (might remove), Trench, Breakers, Sublime]`
+`variants: [Trench, Breakers, Sublime]`
 
 based on the default Mariana and Breakers theme in Sublime Text & [Mariana Pro Warm](https://arc.net/l/quote/erujorqf) Vscode Theme
 
@@ -13,8 +13,8 @@ based on the default Mariana and Breakers theme in Sublime Text & [Mariana Pro W
 ### Mariana Breakers
 <img src="assets/mariana-breakers.png" width="546">
 
-### Mariana Depths
-<img src="assets/mariana-depths-old.png" width="546">
+### Mariana Sublime
+<img src="assets/mariana-sublime.png" width="546">
 
 ## Installation
 1. Copy mariana.json to ~/.config/zed/themes/
