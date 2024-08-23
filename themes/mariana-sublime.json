@@ -125,8 +125,8 @@
 				"hidden": null,
 				"hidden.border": null,
 				"hint": "#7A818D",
-				"hint.background": "#4399CD",
-				"hint.border": "#4399CD",
+				"hint.background": "#45576A",
+				"hint.border": "#00000000",
 				"ignored": "#686c6f",
 				"ignored.background": null,
 				"ignored.border": null,
@@ -147,8 +147,8 @@
 				"unreachable": null,
 				"unreachable.border": null,
 				"warning": "#FFA64C",
-				"warning.background": "#FFA64C",
-				"warning.border": "#FFA64C",
+				"warning.background": "#6a5d4e",
+				"warning.border": "#00000000",
 				"players": [
 					{
 						"cursor": "#f9ae58",

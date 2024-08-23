@@ -147,7 +147,7 @@
 				"unreachable": null,
 				"unreachable.border": null,
 				"warning": "#5C99D6",
-				"warning.background": "#5C99D6",
+				"warning.background": "#45576A",
 				"warning.border": "#00000000",
 				"players": [
 					{
@@ -435,7 +435,7 @@
 				"hidden": "#CBCDCF",
 				"hidden.border": null,
 				"hint": "#bdbebe",
-				"hint.background": "#FAB763",
+				"hint.background": "#6a5d4e",
 				"hint.border": "#00000000",
 				"ignored": null,
 				"ignored.background": null,
