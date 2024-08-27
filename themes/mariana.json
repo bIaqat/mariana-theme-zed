@@ -120,19 +120,19 @@
 				"deleted.background": null,
 				"deleted.border": null,
 				"error": "#EC5F66",
-				"error.background": "#EC5F66",
-				"error.border": "#00000000",
+				"error.background": "#48434b",
+				"error.border": "#EC5F66",
 				"hidden": "#CBCDCF",
 				"hidden.border": null,
 				"hint": "#A6ACB9a0",
-				"hint.background": null,
-				"hint.border": null,
+				"hint.background": "#3F4355",
+				"hint.border":  "#5C99D6",
 				"ignored": null,
 				"ignored.background": null,
 				"ignored.border": null,
 				"info": "#A3CE9E",
-				"info.background": null,
-				"info.border": null,
+				"info.background":  "#3F4355",
+				"info.border":  "#5C99D6",
 				"modified": "#F9AE58",
 				"modified.background": null,
 				"modified.border": null,
@@ -147,8 +147,8 @@
 				"unreachable": null,
 				"unreachable.border": null,
 				"warning": "#5C99D6",
-				"warning.background": "#5C99D6",
-				"warning.border": "#00000000",
+				"warning.background": "#37404A",
+				"warning.border": "#5C99D6",
 				"players": [
 					{
 						"cursor": "#F9AE58",
@@ -293,8 +293,8 @@
 						"font_weight": null
 					},
 					"type": {
-						"color": "#5C99D6",
-						"font_style": "italic",
+						"color": "#fab763",
+						"font_style": null,
 						"font_weight": null
 					},
 					"type.builtin": {
@@ -302,14 +302,21 @@
 						"font_style": "italic",
 						"font_weight": null
 					},
+					"variable.parameter": {
+						"color": "#FAB763",
+						"font_style": null,
+						"font_weight": null
+					},
+					"variable.special": {
+						"color": "#FAB763",
+						"font_style": null,
+						"font_weight": null
+					},
 					"variable.member": {
 						"color": "#5C99D6",
 						"font_style": null,
 						"font_weight": null
 					},
-					"@function.special.definition": {
-						"color": "#0C99D6"
-					}
 				}
 			}
 		},
@@ -430,19 +437,19 @@
 				"deleted.background": null,
 				"deleted.border": null,
 				"error": "#F73949",
-				"error.background": "#F73949",
-				"error.border": "#00000000",
+				"error.background": "#F7394925",
+				"error.border": "#F7394930",
 				"hidden": "#CBCDCF",
 				"hidden.border": null,
 				"hint": "#bdbebe",
-				"hint.background": "#FAB763",
-				"hint.border": "#00000000",
+				"hint.background": "#fab76340",
+				"hint.border": "#EE932B50",
 				"ignored": null,
 				"ignored.background": null,
 				"ignored.border": null,
 				"info": "#EE932B",
-				"info.background": "#fab763",
-				"info.border": null,
+				"info.background": "#fab76340",
+				"info.border":  "#EE932B50",
 				"modified": "#FFA02E",
 				"modified.background": null,
 				"modified.border": null,
@@ -457,8 +464,8 @@
 				"unreachable": null,
 				"unreachable.border": null,
 				"warning": "#297DBD",
-				"warning.background": "#cadbf7",
-				"warning.border": "#00000000",
+				"warning.background": "#cadbf780",
+				"warning.border": "#297DBD20",
 				"players": [
 					{
 						"cursor": "#449999",
@@ -740,19 +747,19 @@
 				"deleted.background": null,
 				"deleted.border": null,
 				"error": "#EC5F66",
-				"error.background": "#EC5F66",
-				"error.border": "#00000000",
+				"error.background": "#4B3C3C",
+				"error.border": "#EC5F66",
 				"hidden": "#CBCDCF",
 				"hidden.border": null,
-				"hint": "#958983",
-				"hint.background": null,
-				"hint.border": null,
+				"hint": "#A6ACB9a0",
+				"hint.background": "#3F4355",
+				"hint.border":  "#5C99D6",
 				"ignored": null,
 				"ignored.background": null,
 				"ignored.border": null,
 				"info": "#A3CE9E",
-				"info.background": null,
-				"info.border": null,
+				"info.background":  "#3F4355",
+				"info.border":  "#5C99D6",
 				"modified": "#F9AE58",
 				"modified.background": null,
 				"modified.border": null,
@@ -767,8 +774,8 @@
 				"unreachable": null,
 				"unreachable.border": null,
 				"warning": "#5C99D6",
-				"warning.background": "#5C99D6",
-				"warning.border": "#00000000",
+				"warning.background": "#37404A",
+				"warning.border": "#5C99D6",
 				"players": [
 					{
 						"cursor": "#F9AE58",
